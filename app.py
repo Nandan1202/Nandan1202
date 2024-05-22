@@ -1,4 +1,4 @@
-import Streamlit as st
+import streamlit as st
 
 st.text("Streamlit App Hello World!")
 st.header("App header")
